@@ -33,5 +33,5 @@ Sou um QA apaixonado por garantir a qualidade e a excelência dos produtos, semp
 Atualmente, estou ampliando meu portfólio ao integrar diferentes tecnologias e frameworks, focando em automação de testes para web, APIs e desempenho. Meu objetivo é sempre aplicar práticas recomendadas e explorar novas tecnologias que estão surgindo no mercado.
 
 ## 🎓 Educação
-- **Cursando**  Desenvolvimento Mobile
+- **Cursando**  Análise e Desenvolvimento de Sistemas 
 
