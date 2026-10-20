@@ -21,15 +21,11 @@ Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experi
 ## Habilidades
 
 ### Testes e Automação
-- Java
 - JavaScript
 - Cypress
-- Selenium
-- REST Assured
-- K6
+- Playright
 - Postman
 - Testes de API
-- Testes de UI
 - Testes de regressão
 
 ### Ferramentas
