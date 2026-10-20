@@ -23,7 +23,7 @@ Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experi
 ### Testes e Automação
 - JavaScript
 - Cypress
-- Playright
+- Playwright
 - Postman
 - Testes de API
 - Testes de regressão
