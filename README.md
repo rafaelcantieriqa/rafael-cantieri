@@ -2,7 +2,7 @@
 
 QA Automation Engineer | Testes de API, Web e Performance
 
-Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experiência para o usuário. Trabalho com automação de testes web e API, utilizando JavaScript, TypeScript, Cypress, Playwright e boas práticas de QA.
+Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experiência para o usuário. Trabalho com automação de testes web e API, utilizando JavaScript, TypeScript, Cypress, Playwright, Postman e integração com ferramentas de gestão e validação.
 
 <div align="center">
 
@@ -76,12 +76,13 @@ Projeto voltado para testes de qualidade em aplicações de delivery e fluxos de
 - Objetivo: fortalecer a cultura de automação e garantia de qualidade
 - Repositório: [qafood](https://github.com/rafaelcantieriqa/qafood)
 
-### 4) Novo projeto em andamento
-Projeto focado em automação de testes, validação de qualidade e melhoria contínua em fluxos de negócio.
+### 4) QAzando Ecommerce - Test Automation Playwright
+Automação de testes end-to-end para o e-commerce QAzando utilizando Playwright e TypeScript.
 
-- Tecnologias: JavaScript, TypeScript, Cypress, Playwright, Postman, SQL, Jira
-- Objetivo: ampliar cobertura, reduzir regressões e garantir entregas mais confiáveis
-- Status: em desenvolvimento
+- Tecnologias: TypeScript, Playwright, JavaScript, GitHub, VS Code
+- Objetivo: validar fluxos críticos de compra, cadastro e navegação com maior confiabilidade e cobertura
+- Repositório: [Test-Automation-Playwright](https://github.com/rafaelcantieriqa/Test-Automation-Playwright)
+- Status: em andamento
 
 ## Objetivo profissional
 
