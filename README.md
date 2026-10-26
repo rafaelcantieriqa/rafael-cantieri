@@ -81,15 +81,6 @@ Automação de testes end-to-end para o e-commerce QAzando utilizando Playwright
 - Objetivo: validar fluxos críticos de compra, cadastro e navegação com maior confiabilidade e cobertura
 - Repositório: [Test-Automation-Playwright](https://github.com/rafaelcantieriqa/Test-Automation-Playwright)
 
-## Objetivo profissional
-
-Busco oportunidades para atuar como QA Automation Engineer, contribuindo com:
-- automação de testes
-- melhoria da qualidade de software
-- redução de regressões
-- maior agilidade na entrega de produtos
-- fortalecimento da cultura de qualidade nas equipes
-
 ## Contato
 
 - LinkedIn: [Rafael Cantieri](https://www.linkedin.com/in/rafael-cantieri-99682b269/)
