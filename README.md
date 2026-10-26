@@ -26,24 +26,24 @@ Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experi
 
 ## Sobre mim
 
-- QA Automation Engineer com interesse em testes de software, qualidade e melhoria contínua.
-- Experiência com automação de testes em aplicações web e APIs.
-- Foco em reduzir esforço manual, aumentar cobertura e garantir entregas mais seguras.
-- Apaixonado por boas práticas, testes automatizados e qualidade de software.
+- QA Automation Engineer com foco em qualidade, confiabilidade e experiência do usuário.
+- Especialista em automação de testes para aplicações web e APIs.
+- Experiência com testes de regressão, validação de regras de negócios e garantia de entregas com menor risco.
+- Comprometido com boas práticas, melhoria contínua e cultura de qualidade.
 
-## Habilidades
+## Stack de habilidades
 
-### Testes e Automação
+### Automação e testes
 - JavaScript
 - TypeScript
 - Cypress
 - Playwright
 - Postman
 - Testes de API
-- Testes de regressão
 - Testes web
+- Testes de regressão
 
-### Ferramentas
+### Ferramentas e processos
 - Git / GitHub
 - IntelliJ IDEA / VS Code
 - Jira
@@ -56,21 +56,21 @@ Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experi
 ## Projetos em destaque
 
 ### 1) Burger Eats Test Automation
-Automação de testes para fluxo de cadastro e pedidos em aplicação web.
+Automação de testes para o fluxo de cadastro e pedidos em aplicação web.
 
 - Tecnologias: JavaScript, Cypress
 - Objetivo: validar cenários críticos e reduzir testes manuais
 - Repositório: [burger-eats-test-automation](https://github.com/rafaelcantieriqa/buger-eats-test-automation)
 
 ### 2) Petlov Project
-Projeto com foco em testes e qualidade de software em aplicações relacionadas a gestão e experiência do usuário.
+Projeto com foco em testes e qualidade de software em aplicações relacionadas à gestão e experiência do usuário.
 
 - Tecnologias: Java
 - Objetivo: aplicar boas práticas e automação em cenários reais
 - Repositório: [petlov-project](https://github.com/rafaelcantieriqa/petlov-project)
 
 ### 3) QAFood
-Projeto voltado para testes de qualidade em aplicações de food delivery e fluxos de negócio.
+Projeto voltado para testes de qualidade em aplicações de delivery e fluxos de negócio.
 
 - Tecnologias: Java
 - Objetivo: fortalecer a cultura de automação e garantia de qualidade
@@ -90,6 +90,7 @@ Busco oportunidades para atuar como QA Automation Engineer, contribuindo com:
 - melhoria da qualidade de software
 - redução de regressões
 - maior agilidade na entrega de produtos
+- fortalecimento da cultura de qualidade nas equipes
 
 ## Contato
 
