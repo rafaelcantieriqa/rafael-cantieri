@@ -2,7 +2,7 @@
 
 QA Automation Engineer | Testes de API, Web e Performance
 
-Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experiência para o usuário. Trabalho com automação de testes web e API, utilizando JavaScript, TypeScript, Cypress, Playwright, Postman e integração com ferramentas de gestão e validação.
+Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experiência para o usuário. Trabalho com automação de testes web e API, utilizando JavaScript, TypeScript, Cypress, Playwright e ferramentas de testes e QA.
 
 <div align="center">
 
@@ -20,7 +20,6 @@ Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experi
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBeaver" />
-  <img src="https://img.shields.io/badge/SQL%20Developer-CC2927?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL Developer" />
 
 </div>
 
@@ -48,7 +47,6 @@ Sou QA Automation com foco em garantir qualidade, confiabilidade e melhor experi
 - IntelliJ IDEA / VS Code
 - Jira
 - DBeaver
-- SQL Developer
 - Banco de dados / SQL
 - CI/CD
 - Testes automatizados em aplicações web
