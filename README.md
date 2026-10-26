@@ -82,7 +82,6 @@ Automação de testes end-to-end para o e-commerce QAzando utilizando Playwright
 - Tecnologias: TypeScript, Playwright, JavaScript, GitHub, VS Code
 - Objetivo: validar fluxos críticos de compra, cadastro e navegação com maior confiabilidade e cobertura
 - Repositório: [Test-Automation-Playwright](https://github.com/rafaelcantieriqa/Test-Automation-Playwright)
-- Status: em andamento
 
 ## Objetivo profissional
 
