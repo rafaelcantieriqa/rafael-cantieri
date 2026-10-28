@@ -1,7 +1,5 @@
 # Rafael Cantieri
 
-QA Automation Engineer | Test Automation | API Testing | Web Testing | Performance Testing | Cypress | Playwright
-
 ## Sobre mim
 
 Profissional de Quality Assurance com foco em automação de testes, confiabilidade de software e excelência na experiência do usuário. Possuo experiência na automação de testes para aplicações web e APIs, utilizando tecnologias como JavaScript, TypeScript, Node.js, Cypress, Playwright e Postman, além de práticas de integração contínua (CI/CD).
