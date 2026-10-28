@@ -1,6 +1,6 @@
 # Rafael Cantieri
 
-QA Automation Engineer | Testes de API, Web e Performance
+QA Automation Engineer | Test Automation | API Testing | Web Testing | Performance Testing | Cypress | Playwright
 
 ## Sobre mim
 
