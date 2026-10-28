@@ -4,12 +4,13 @@ QA Automation Engineer | Testes de API, Web e Performance
 
 ## Sobre mim
 
-QA Automation Engineer com foco em qualidade, confiabilidade e experiência do usuário. Tenho experiência em automação de testes de aplicações web e APIs, trabalhando com JavaScript, TypeScript, Node.js, Cypress, Playwright, Postman e integração contínua.
+**QA Automation Engineer | Test Automation | Quality Engineering**
 
-Meu objetivo é reduzir riscos em releases, validar regras de negócio com eficiência e aumentar a confiança no produto por meio de testes automatizados, regressão e análise de comportamento em ambiente real.
+Profissional de Quality Assurance com foco em automação de testes, confiabilidade de software e excelência na experiência do usuário. Possuo experiência na automação de testes para aplicações web e APIs, utilizando tecnologias como JavaScript, TypeScript, Node.js, Cypress, Playwright e Postman, além de práticas de integração contínua (CI/CD).
 
-Sou apaixonado por criar soluções que ajudem a entregar software com mais estabilidade, previsibilidade e melhor experiência para o usuário final.
+Atuo na identificação e prevenção de falhas, validação de regras de negócio e execução de testes funcionais e de regressão, contribuindo para a redução de riscos em releases, a otimização dos processos de qualidade e o aumento da confiabilidade das entregas.
 
+Meu foco é integrar qualidade ao ciclo de desenvolvimento de software, desenvolvendo estratégias de automação eficientes e sustentáveis que promovam maior estabilidade, previsibilidade e segurança nas entregas. Busco continuamente aprimorar processos, fortalecer a cultura de qualidade e contribuir para a construção de produtos robustos, escaláveis e alinhados às expectativas dos usuários.
 ## Tecnologias e ferramentas
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
